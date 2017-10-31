@@ -1,4 +1,4 @@
-# SEP 2017
+# Warehouse Master
 
 SMU Fall 2017 SEP Project. A management system for inventory.
 
