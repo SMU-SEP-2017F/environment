@@ -1,0 +1,13 @@
+*.pem
+node_modules
+
+# Frontend Stuff
+frontend/dist
+frontend/node_modules
+frontend/*.sketch
+
+# Backend Stuff
+backend/vendor/
+backend/logs/*
+backend/logs/README.md
+backend/db/
