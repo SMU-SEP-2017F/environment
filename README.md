@@ -1,6 +1,6 @@
-# Endlist
+# SEP 2017
 
-SMU Fall 2017 DB/GUI Project. A collaborative playlist web application.
+SMU Fall 2017 SEP Project. A management system for inventory.
 
 ## Dev Envrionment
 
